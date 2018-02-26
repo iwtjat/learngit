@@ -1,4 +1,5 @@
 Git is a version control system.
-Git is a free software.
 I love git!
 Hello git!
+
+there are too much to learn!
