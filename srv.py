@@ -1,5 +1,5 @@
 
-NAME = 'add_two_ints_server'
+NAME = 'add_two_ints_server' 1234 56
 
 # import the AddTwoInts service
 from beginner_tutorials.srv import *
